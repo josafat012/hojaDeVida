@@ -1,6 +1,5 @@
 import LeftOneBody from "../atoms/LeftOneBody";
 import RightOneBody from "../atoms/RightOneBody";
-// import RightTwoBody from "../atoms/RightOneBody";
 import data from "../../data/data";
 
 function SectionOneBody() {

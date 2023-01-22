@@ -9,10 +9,10 @@ const data = {
         'descripcion' : 'Soy estudiante de la carrera de ingenieria en desarrollo de software, apasionante de las tecnologias. Actualmente me encuentro cursando el cuarto cuatrimestre de mi carrera. Es una carrera la cual me gusta, por lo que pienso terminarla. Mis datos son:'
     },
     contacto : {
-        'correo' : '213537@ids.upchiapas.edu',
         'telefono' : '9616665782',
         'direccion' : 'Tuxtla gutierrez',
-        'correo' : '213537@ids.upchiapas.edu.mx'
+        'correo' : '213537@ids.upchiapas.edu.mx',
+        'escuela' : 'Universidad Politecnica de Chiapas'
     },
     tecnologias : [{
         'id' : 1,

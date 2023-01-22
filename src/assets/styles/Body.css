@@ -38,6 +38,8 @@ section{
 
 .div-right-two-body{
     margin-left: 10%;
+    background-color: rgba(127, 255, 212, 0.201);
+    border-radius: 20%;
 }
 
 .div-right-two-body h2{
