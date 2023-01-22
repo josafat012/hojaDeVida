@@ -45,3 +45,46 @@ section{
     color: rgb(109, 41, 114);
     margin-bottom: 10%;
 }
+
+.section-three {
+    display: block;
+    margin-top: 5%;
+    font-size: 120%;
+    
+}
+.section-three h2{
+    width: 100%;
+    text-align: center;
+    color: rgb(109, 41, 114);
+}
+
+.section-three img{
+    width: 100px;
+    height: 100px;
+}
+
+.div-section-three {
+    display: flex;
+    flex-wrap:nowrap;
+    justify-content: center;
+}
+
+.div-section-three div {
+    width: 33%;
+    padding-left: 5px;
+    padding-right: 5px;
+
+}
+
+.div-left-three-body{
+    text-align: center;
+}
+
+
+.div-middle-three-body{
+    text-align: center;
+}
+
+.div-right-three-body{
+    text-align: center;
+}

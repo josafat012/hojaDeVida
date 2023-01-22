@@ -6,7 +6,7 @@ const data = {
         'genero' : 'Masculino',
         'nacionalidad' : 'Mexicano',
         'ocupacion' : 'Estudiante de ingenieria de software',
-        'descripcion' : 'Soy estudiante de la carrera de ingenieria en desarrollo de software, apasionante de las tecnologias. Mis datos son:'
+        'descripcion' : 'Soy estudiante de la carrera de ingenieria en desarrollo de software, apasionante de las tecnologias. Actualmente me encuentro cursando el cuarto cuatrimestre de mi carrera. Es una carrera la cual me gusta, por lo que pienso terminarla. Mis datos son:'
     },
     contacto : {
         'correo' : '213537@ids.upchiapas.edu',
