@@ -7,7 +7,9 @@ import data from '../../data/data';
 function Header() {
     return ( 
         <header>
-            <HeaderImg/>
+            <div>
+                <HeaderImg/>
+            </div>
             <div>
                <HeaderTitle name={data.personal.nombre} lastname={data.personal.apellido}/>
                <HeaderSubtitle description={data.personal.ocupacion}/>
