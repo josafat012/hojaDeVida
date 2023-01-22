@@ -1,6 +1,6 @@
 import img from '../../assets/imgs/imgSectionOne.png';
 
-function RightTwoBody() {
+function RightOneBody() {
     return (
         <div className="div-right-one-body">
             <img src={img} alt="" />
@@ -8,4 +8,4 @@ function RightTwoBody() {
       );
 }
 
-export default RightTwoBody;
+export default RightOneBody;
