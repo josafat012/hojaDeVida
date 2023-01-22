@@ -10,7 +10,7 @@ function Header() {
             <HeaderImg/>
             <div>
                <HeaderTitle name={data.personal.nombre} lastname={data.personal.apellido}/>
-               <HeaderSubtitle description={data.personal.descripcion}/>
+               <HeaderSubtitle description={data.personal.ocupacion}/>
             </div>
         </header>
      );

@@ -1,0 +1,28 @@
+section{
+    display: flex;
+}
+
+.section-one{
+    align-items: center;
+    font-size: 120%;
+}
+
+.div-left-one-body h2 {
+    text-align: center;
+    color: rgb(109, 41, 114);
+    margin-top: 0;
+}
+
+.div-right-one-body{
+    text-align: center;
+}
+
+.section-one div{
+    width: 50%;
+    padding-top: 5%;
+}
+
+.section-one img {
+    width: 300px;
+    height: 300px;
+}
