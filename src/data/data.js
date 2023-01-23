@@ -11,7 +11,7 @@ const data = {
     contacto : {
         'telefono' : '9616665782',
         'direccion' : 'Tuxtla gutierrez',
-        'correo' : '213537@ids.upchiapas.edu.mx',
+        'correo' : 'jos_t20@outlook.com',
         'escuela' : 'Universidad Politecnica de Chiapas'
     },
     tecnologias : [{
