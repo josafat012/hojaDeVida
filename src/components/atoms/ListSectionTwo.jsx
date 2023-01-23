@@ -2,13 +2,13 @@ import data from "../../data/data";
 
 function ListSectionTwo() {
     return (
-        <ul>
+        <>
             {
                 data.tecnologias.map( tecnologias => (
-                    <li key={tecnologias.id}>{tecnologias.name}</li>
+                    <p key={tecnologias.id}> ~ {tecnologias.name}</p>
                 ))
             }
-        </ul>
+        </>    
       );
 }
 
